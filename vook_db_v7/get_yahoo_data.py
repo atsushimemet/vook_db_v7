@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # Import
-from vook_db_v5.config import (
+from vook_db_v7.config import (
     max_products,
     step,
     params,

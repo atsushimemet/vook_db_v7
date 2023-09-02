@@ -1,23 +1,19 @@
 import json
-import re
 from time import sleep
-import os
 import pandas as pd
 import requests
-from vook_db_v5.config import req_params, WANT_ITEMS, REQ_URL, MAX_PAGE, path_output_dir
+from vook_db_v7.config import req_params, WANT_ITEMS, REQ_URL, MAX_PAGE
 import datetime
-import argparse
 import numpy as np
-# from logzero import logger
 
-brand = 'リーバイス levis'
-item = '501 66前期'
+brand = "リーバイス levis"
+item = "501 66前期"
 
 platform_id = 1
 item_id = 1
 knowledge_id = 1
 
-file_name = 'products_raw'
+file_name = "products_raw"
 
 
 cnt = 1
@@ -57,17 +53,20 @@ while True:
 
     print("Finished!!")
 
-df['pltaform_id'] = platform_id
-df['knowledge_id'] = knowledge_id
-df['size_id'] = ''
-df['id'] = np.arange(len(df))+1
+df["pltaform_id"] = platform_id
+df["knowledge_id"] = knowledge_id
+df["size_id"] = ""
+df["id"] = np.arange(len(df)) + 1
 
-df_main = df.rename(columns={'itemName':'name', 'itemPrice':'price', 'itemUrl':'url'})
-df_main = df_main.reindex(columns=[
-    'id','name','url','price','knowledge_id','pltaform_id','size_id'])
+df_main = df.rename(
+    columns={"itemName": "name", "itemPrice": "price", "itemUrl": "url"}
+)
+df_main = df_main.reindex(
+    columns=["id", "name", "url", "price", "knowledge_id", "pltaform_id", "size_id"]
+)
 
 run_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
-df_main['created_at'] = run_time
-df_main['updated_at'] = run_time
+df_main["created_at"] = run_time
+df_main["updated_at"] = run_time
 
-df_main.to_csv('./data/output/'+file_name+'.csv', index=False)
+df_main.to_csv("./data/output/" + file_name + ".csv", index=False)
