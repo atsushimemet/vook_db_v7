@@ -1,0 +1,11 @@
+{
+    "[python]": {
+        // タブサイズは 4
+        "editor.tabSize": 4,
+        // ファイル保存時にフォーマット
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.formatting.blackPath": "${workspaceFolder}/.venv/bin/black"
+}
