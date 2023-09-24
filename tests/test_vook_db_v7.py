@@ -28,7 +28,7 @@ def test_columns_names_checker(file):
 
 
 def test_id_checker(file):
-    if file[columns_correct[0]].notnull().all() == True:
+    if file[columns_correct[0]].notnull().all():
         if file[columns_correct[0]].dtypes == "int64":
             print("id ok!")
         else:
@@ -38,7 +38,7 @@ def test_id_checker(file):
 
 
 def test_name_checker(file):
-    if file[columns_correct[1]].notnull().all() == True:
+    if file[columns_correct[1]].notnull().all():
         if file[columns_correct[1]].dtypes == "O":
             print("name ok!")
         else:
@@ -48,7 +48,7 @@ def test_name_checker(file):
 
 
 def test_url_checker(file):
-    if file[columns_correct[2]].notnull().all() == True:
+    if file[columns_correct[2]].notnull().all():
         if file[columns_correct[2]].dtypes == "O":
             print("url ok!")
         else:
@@ -58,7 +58,7 @@ def test_url_checker(file):
 
 
 def test_price_checker(file):
-    if file[columns_correct[3]].notnull().all() == True:
+    if file[columns_correct[3]].notnull().all():
         if file[columns_correct[3]].dtypes == "int64":
             print("price ok!")
         else:
@@ -68,7 +68,7 @@ def test_price_checker(file):
 
 
 def test_knowledge_id_checker(file):
-    if file[columns_correct[4]].notnull().all() == True:
+    if file[columns_correct[4]].notnull().all():
         if file[columns_correct[4]].dtypes == "int64":
             print("knowledge_id ok!")
         else:
@@ -78,7 +78,7 @@ def test_knowledge_id_checker(file):
 
 
 def test_pltaform_id_checker(file):
-    if file[columns_correct[5]].notnull().all() == True:
+    if file[columns_correct[5]].notnull().all():
         if file[columns_correct[5]].dtypes == "int64":
             print("pltaform_id ok!")
         else:
@@ -88,7 +88,7 @@ def test_pltaform_id_checker(file):
 
 
 def test_size_id_checker(file):
-    if file[columns_correct[6]].notnull().all() == True:
+    if file[columns_correct[6]].notnull().all():
         if file[columns_correct[6]].dtypes == "int64":
             print("size_id ok!")
         else:
@@ -98,7 +98,7 @@ def test_size_id_checker(file):
 
 
 def test_created_at_checker(file):
-    if file[columns_correct[7]].notnull().all() == True:
+    if file[columns_correct[7]].notnull().all():
         if file[columns_correct[7]].dtypes == "O":
             print("created_at ok!")
         else:
@@ -108,7 +108,7 @@ def test_created_at_checker(file):
 
 
 def test_updated_at_checker(file):
-    if file[columns_correct[8]].notnull().all() == True:
+    if file[columns_correct[8]].notnull().all():
         if file[columns_correct[8]].dtypes == "O":
             print("updated_at ok!")
         else:
