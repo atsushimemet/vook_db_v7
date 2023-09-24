@@ -68,6 +68,8 @@ def output(
         columns=["id", "name", "url", "price", "knowledge_id", "pltaform_id", "size_id"]
     )
 
+    df_main["price"] = df_main["price"].astype(int)
+
     run_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
     df_main["created_at"] = run_time
     df_main["updated_at"] = run_time
