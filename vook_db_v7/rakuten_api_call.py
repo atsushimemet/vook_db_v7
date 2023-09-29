@@ -79,3 +79,18 @@ def output(
 def save(df_main: pd.DataFrame) -> None:
     file_name = "products_raw"
     df_main.to_csv("./data/output/" + file_name + ".csv", index=False)
+
+
+def main():
+    df_main = output(
+        brand=brand,
+        item=item,
+        platform_id=platform_id,
+        item_id=item_id,
+        knowledge_id=knowledge_id,
+    )
+    save(df_main)
+
+
+if __name__ == "__main__":
+    main()
