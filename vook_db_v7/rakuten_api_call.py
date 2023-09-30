@@ -10,11 +10,11 @@ from vook_db_v7.config import MAX_PAGE, REQ_URL, WANT_ITEMS, req_params
 
 
 brand = "リーバイス levis"
-item = "501 66前期"
+item = "501 66後期"
 
 platform_id = 1
 item_id = 1
-knowledge_id = 1
+knowledge_id = 10
 
 
 # ページループ
