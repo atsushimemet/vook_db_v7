@@ -16,6 +16,9 @@ platform_id = 1
 item_id = 1
 knowledge_id = 10
 
+df_prev = pd.read_csv("./data/output/products_raw_prev.csv")
+PREV_ID_MAX = df_prev["id"].max()
+
 
 # ページループ
 # logger.info("loop start!")
@@ -59,7 +62,7 @@ def output(
     df["platform_id"] = platform_id
     df["knowledge_id"] = knowledge_id
     df["size_id"] = 999
-    df["id"] = np.arange(len(df)) + 1
+    df["id"] = np.arange(PREV_ID_MAX, PREV_ID_MAX + len(df)) + 1
 
     df_main = df.rename(
         columns={"itemName": "name", "itemPrice": "price", "itemUrl": "url"}
