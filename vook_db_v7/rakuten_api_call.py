@@ -10,11 +10,14 @@ from vook_db_v7.config import MAX_PAGE, REQ_URL, WANT_ITEMS, req_params
 
 
 brand = "リーバイス levis"
-item = "501 66前期"
+item = "501 66後期"
 
 platform_id = 1
 item_id = 1
-knowledge_id = 1
+knowledge_id = 10
+
+df_prev = pd.read_csv("./data/output/products_raw_prev.csv")
+PREV_ID_MAX = df_prev["id"].max()
 
 
 # ページループ
@@ -58,8 +61,8 @@ def output(
 
     df["platform_id"] = platform_id
     df["knowledge_id"] = knowledge_id
-    df["size_id"] = ""
-    df["id"] = np.arange(len(df)) + 1
+    df["size_id"] = 999
+    df["id"] = np.arange(PREV_ID_MAX, PREV_ID_MAX + len(df)) + 1
 
     df_main = df.rename(
         columns={"itemName": "name", "itemPrice": "price", "itemUrl": "url"}
