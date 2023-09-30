@@ -56,7 +56,7 @@ def output(
 
         print("Finished!!")
 
-    df["pltaform_id"] = platform_id
+    df["platform_id"] = platform_id
     df["knowledge_id"] = knowledge_id
     df["size_id"] = ""
     df["id"] = np.arange(len(df)) + 1
@@ -65,7 +65,7 @@ def output(
         columns={"itemName": "name", "itemPrice": "price", "itemUrl": "url"}
     )
     df_main = df_main.reindex(
-        columns=["id", "name", "url", "price", "knowledge_id", "pltaform_id", "size_id"]
+        columns=["id", "name", "url", "price", "knowledge_id", "platform_id", "size_id"]
     )
 
     df_main["price"] = df_main["price"].astype(int)

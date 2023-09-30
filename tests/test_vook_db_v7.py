@@ -8,7 +8,7 @@ columns_correct = [
     "url",
     "price",
     "knowledge_id",
-    "pltaform_id",
+    "platform_id",
     "size_id",
     "created_at",
     "updated_at",
@@ -54,7 +54,7 @@ class TestColumnTypeChecker:
         if self.file[columns_correct[4]].notnull().all():
             assert self.file[columns_correct[4]].dtypes == "int64"
 
-    def test_pltaform_id_checker(self):
+    def test_platform_id_checker(self):
         if self.file[columns_correct[5]].notnull().all():
             assert self.file[columns_correct[5]].dtypes == "int64"
 
