@@ -58,7 +58,7 @@ def output(
 
     df["platform_id"] = platform_id
     df["knowledge_id"] = knowledge_id
-    df["size_id"] = ""
+    df["size_id"] = 999
     df["id"] = np.arange(len(df)) + 1
 
     df_main = df.rename(
