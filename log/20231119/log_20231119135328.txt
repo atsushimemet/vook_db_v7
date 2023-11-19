@@ -1,0 +1,424 @@
+Local bind port: 56860
+エラーワード　BIG Eが存在しました:
+BIG EをBIGEに変換します
+エラーワード　BIG Eが存在しました:
+BIG EをBIGEに変換します
+エラーワード　BIG Eが存在しました:
+BIG EをBIGEに変換します
+エラーワード　BIG Eが存在しました:
+BIG EをBIGEに変換します
+検索キーワード:[Levi's 501 66前期 中古] knowledge_id: 5
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD JACKET 1st 中古] knowledge_id: 8
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501 BIGE 中古] knowledge_id: 10
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501XX 片面タブ 中古] knowledge_id: 11
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501XX 両面タブ 中古] knowledge_id: 12
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501XX ギャラ入り 中古] knowledge_id: 13
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501XX ギャラ無し 中古] knowledge_id: 15
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 551ZXX ギャラ無し 中古] knowledge_id: 16
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501-501 501-501 中古] knowledge_id: 17
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501 66後期 中古] knowledge_id: 19
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 505 66前期 中古] knowledge_id: 20
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 560 560 中古] knowledge_id: 28
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 505 551Z-505 中古] knowledge_id: 29
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 505 551ZXX-505 中古] knowledge_id: 30
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[patagonia SHORTS SHORTS 中古] knowledge_id: 31
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 551ZXX ギャラ入り 中古] knowledge_id: 32
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 505 BIGE 中古] knowledge_id: 33
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 606 BIGE 中古] knowledge_id: 34
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501 Black 中古] knowledge_id: 36
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 501 赤耳 中古] knowledge_id: 37
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 70505 BIGE 中古] knowledge_id: 38
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 70505 557 70505 ダブルネーム 中古] knowledge_id: 40
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 506XX 1st 中古] knowledge_id: 41
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 507XX 2nd 中古] knowledge_id: 42
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 550 550 中古] knowledge_id: 43
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 557XX 3rd ギャラ入り 中古] knowledge_id: 44
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's 557XX 3rd 中古] knowledge_id: 45
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's SHORT HORN DENIM WESTERN 1940〜1950年代 中古] knowledge_id: 47
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's SHORT HORN DENIM WESTERN 1950年代 前半 中古] knowledge_id: 48
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Levi's SHORT HORN DENIM WESTERN 1950年代 後半 中古] knowledge_id: 49
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Champion REVERSE WEAVE 90s 刺繍タグ 中古] knowledge_id: 50
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+MAX PAGEに到達したので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Champion REVERSE WEAVE 80s トリコタグ 中古] knowledge_id: 51
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Champion REVERSE WEAVE 70s 単色タグ 中古] knowledge_id: 52
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Champion REVERSE WEAVE 60s タタキタグ 中古] knowledge_id: 53
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Champion REVERSE WEAVE 50s タタキタグ 中古] knowledge_id: 54
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 50s 中古] knowledge_id: 55
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 30s 中古] knowledge_id: 56
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 40s 中古] knowledge_id: 57
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 60s 中古] knowledge_id: 58
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 70s 中古] knowledge_id: 59
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 80s 中古] knowledge_id: 60
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Pendleton BOARD SHIRT 90s 中古] knowledge_id: 61
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[L.L.Bean BOAT AND TOTE Bean TOTE 70s 中古] knowledge_id: 62
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[L.L.Bean BOAT AND TOTE Bean TOTE 80s 前半 中古] knowledge_id: 63
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[L.L.Bean BOAT AND TOTE Bean TOTE 80s 後半 中古] knowledge_id: 64
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[L.L.Bean BOAT AND TOTE Bean TOTE 90s 中古] knowledge_id: 65
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[L.L.Bean BOAT AND TOTE Bean TOTE 2000s 中古] knowledge_id: 66
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD JACKET 2nd 中古] knowledge_id: 67
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD JACKET 3rd 中古] knowledge_id: 68
+Finished!!
+Finished!!
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD JACKET 4th 中古] knowledge_id: 69
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 MODS COAT FISHTAIL PARKA 60s 中古] knowledge_id: 70
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 MODS COAT FISHTAIL PARKA 70s 中古] knowledge_id: 71
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 MODS COAT FISHTAIL PARKA 80s 中古] knowledge_id: 72
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE JACKET 1st 中古] knowledge_id: 73
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE JACKET 2nd 中古] knowledge_id: 74
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE JACKET 3rd 中古] knowledge_id: 75
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE JACKET 4th 中古] knowledge_id: 76
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE JACKET 5th 中古] knowledge_id: 77
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE PANTS 1st 中古] knowledge_id: 78
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE PANTS 2nd 中古] knowledge_id: 79
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE PANTS 3rd 中古] knowledge_id: 80
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY JUNGLE FATIGUE PANTS 4th 中古] knowledge_id: 81
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD PANTS 前期型 中古] knowledge_id: 82
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[U.S.ARMY M-65 FIELD PANTS 後期型 中古] knowledge_id: 83
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Lee 101-Z 101-Z 中古] knowledge_id: 84
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Wrangler 11MJ 11MJ 中古] knowledge_id: 85
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Wrangler 111MJ 111MJ 中古] knowledge_id: 86
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Wrangler 27MW 27MW 中古] knowledge_id: 87
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+検索キーワード:[Lee 91-J 91-J 中古] knowledge_id: 88
+Finished!!
+返ってきた商品数の数が0なので、ループ終了
+price type before: object
+price type after: int64
+columns ok!
+id ok!
+name ok!
+knowledge_id ok!
+pltaform_id ok!
+url ok!
+price ok!
+size_id ok!
+updated_at ok!
+created_at ok!
+id               int64
+name            object
+url             object
+price            int64
+knowledge_id     int64
+platform_id      int64
+size_id          int64
+created_at      object
+updated_at      object
+dtype: object
